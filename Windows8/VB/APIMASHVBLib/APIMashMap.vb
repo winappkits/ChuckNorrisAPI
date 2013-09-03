@@ -70,12 +70,12 @@ Namespace APIMASHLib
 #End If
 
 #If OBJMAP_NEWTONSOFT Then
-		Public Shared Function DeserializeObject(Of T)(objString As String) As T
+        Public Shared Function DeserializeObject(Of T)(objString As String) As T
             Dim settings = New JsonSerializerSettings() With { _
                  .NullValueHandling = NullValueHandling.Ignore _
             }
-			Return DirectCast(JsonConvert.DeserializeObject(Of T)(objString, settings), T)
-		End Function
+            Return DirectCast(JsonConvert.DeserializeObject(Of T)(objString, settings), T)
+        End Function
 #End If
 
         Private Shared Function DecompressBytes(compressedBytes As Byte()) As String
