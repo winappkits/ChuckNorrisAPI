@@ -1,12 +1,12 @@
-##Chuck Norris Starter Kit for Windows 8
-###Date: 5.10.2013
+##Chuck Norris Starter Kit for Windows 8.1
+###Date: 9.28.2013
 ###Version: v1.0.0
 ###Author: Bob Familiar
 
 ----------------------
 
 ###Description
-The Chuck Norris Starter Kit is a XAML/C# Windows 8 app that demonstrates calling a Web Service that returns a simple JSON payload. The JSON payload is deserialized into a View Model.
+The Chuck Norris Starter Kit is a XAML/C# Windows 8.1 app that demonstrates calling a Web Service that returns a simple JSON payload. The JSON payload is deserialized into a View Model.
 
 [See this article for details on the Chuck Norris Starter Kit][1]
 
@@ -14,10 +14,10 @@ The Chuck Norris Starter Kit is a XAML/C# Windows 8 app that demonstrates callin
 ###Features
  - Invokes the Internet Chuck Norris Database API (http://www.icndb.com/)
  - Demonstrates how to deserialize JSON to C#
- - Provides a baseline for a Windows 8 Store App
+ - Provides a baseline for a Windows 8.1 Store App
 ###Requirements
- - Windows 8
- - Visual Studio 2012 Express for Windows 8 or higher
+ - Windows 8.1
+ - Visual Studio 2013
  - JSON.NET form Newtonsoft (https://json.codeplex.com/)
 ###Setup
  - Download the Starter Kit
