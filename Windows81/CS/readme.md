@@ -15,10 +15,12 @@ The Chuck Norris Starter Kit is a XAML/C# Windows 8.1 app that demonstrates call
  - Invokes the Internet Chuck Norris Database API (http://www.icndb.com/)
  - Demonstrates how to deserialize JSON to C#
  - Provides a baseline for a Windows 8.1 Store App
+
 ###Requirements
  - Windows 8.1
  - Visual Studio 2013
  - JSON.NET form Newtonsoft (https://json.codeplex.com/)
+
 ###Setup
  - Download the Starter Kit
  - Open the Solution in Visual Studio
