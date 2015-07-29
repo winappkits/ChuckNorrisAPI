@@ -1,6 +1,7 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMASH_CNorris_StarterKit", "APIMASH_CNorris_StarterKit\APIMASH_CNorris_StarterKit.csproj", "{D7289935-5920-47EA-B917-14D91B521F27}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMASH_CNorrisLib", "APIMASH_CNorrisLib\APIMASH_CNorrisLib.csproj", "{41841177-26FF-4BCA-B644-D948BA63570A}"
@@ -13,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{20C1B0
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMASHLib", "APIMASHLib\APIMASHLib\APIMASHLib.csproj", "{A7CB71B9-C19E-4A82-8308-D83490F16EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMASH_CNorris_Universal", "APIMASH_CNorris_Universal\APIMASH_CNorris_Universal.csproj", "{58D4A089-3DD8-4AFD-A497-C0191071C0ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -82,6 +85,26 @@ Global
 		{A7CB71B9-C19E-4A82-8308-D83490F16EF2}.Release|x64.Build.0 = Release|x64
 		{A7CB71B9-C19E-4A82-8308-D83490F16EF2}.Release|x86.ActiveCfg = Release|x86
 		{A7CB71B9-C19E-4A82-8308-D83490F16EF2}.Release|x86.Build.0 = Release|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|ARM.ActiveCfg = Debug|ARM
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|ARM.Build.0 = Debug|ARM
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|ARM.Deploy.0 = Debug|ARM
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|x64.ActiveCfg = Debug|x64
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|x64.Build.0 = Debug|x64
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|x64.Deploy.0 = Debug|x64
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|x86.ActiveCfg = Debug|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|x86.Build.0 = Debug|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Debug|x86.Deploy.0 = Debug|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|Any CPU.ActiveCfg = Release|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|ARM.ActiveCfg = Release|ARM
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|ARM.Build.0 = Release|ARM
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|ARM.Deploy.0 = Release|ARM
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|x64.ActiveCfg = Release|x64
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|x64.Build.0 = Release|x64
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|x64.Deploy.0 = Release|x64
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|x86.ActiveCfg = Release|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|x86.Build.0 = Release|x86
+		{58D4A089-3DD8-4AFD-A497-C0191071C0ED}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
